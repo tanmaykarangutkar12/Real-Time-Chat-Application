@@ -9,7 +9,7 @@
 
 - Techstacks Used: HTML, CSS, JavaScript, Node.Js, Express.Js, Socket.io
 
-##### To visit the Chat-Application: [Open Chat-App here](https://real-time-chatme-app.herokuapp.com/)
+
 
 
 
@@ -30,4 +30,4 @@
 
 ### Support or Contact:
 
-Having trouble with Pages? Feel free to send me a mail at yashagarwal94144@gmail.com
+Having trouble with Pages? Feel free to send me a mail at iamtanmay45@gmail.com
