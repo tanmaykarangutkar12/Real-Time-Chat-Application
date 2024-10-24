@@ -6,8 +6,13 @@
 - This application has been structured using NodeJs, WebSocket and Express, to handle backend and transfer messages.
 
 - Techstacks Used: HTML, CSS, JavaScript, Node.Js, Express.Js, Socket.io
+![Screenshot 2024-10-24 233903](https://github.com/user-attachments/assets/6e92da1e-6ea8-4bdd-b66f-fea02390731e)
 
+![Screenshot 2024-10-24 233842](https://github.com/user-attachments/assets/6d2e9b87-140e-4083-bf6d-8a3f56a3fd01)
 
+<br>
+
+<br>
 
 
 
