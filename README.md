@@ -1,6 +1,4 @@
-# Real-Time Chat App using Node.js and Socket.IO
-
-
+# Real-Time Chat App using Node.js
 ### Description:
 * * *
 - A web application used for chatting purposes in which multiple users can chat together in real time with each other in a group..
